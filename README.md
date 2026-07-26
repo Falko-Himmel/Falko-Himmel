@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Falko%20Himmel&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineering%20%E2%80%A2%20Live%20Lighting%20%E2%80%A2%20Concert%20Photography&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=180&section=header&text=Falko%20Himmel&fontSize=48&fontColor=e6edf3&fontAlignY=45&animation=fadeIn" />
 
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%92%A1+Building+things+that+matter;%F0%9F%8E%B8+Lighting+up+live+stages;%F0%9F%93%B8+Capturing+moments+through+a+lens" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=6E40C9&center=true&vCenter=true&repeat=true&width=620&height=55&lines=Software+Engineering+Student+%F0%9F%8E%93;Universit%C3%A4t+Ulm+%C2%B7;TypeScript+%26+React;Java+%7C+Haskell+%7C+Docker+%7C+Firebase;Live+Event+Lighting+%F0%9F%8E%9B%EF%B8%8F;Concert+Photography+%F0%9F%93%B8" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,7 +23,7 @@
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -51,7 +51,7 @@ fun_facts:
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
@@ -80,7 +80,7 @@ fun_facts:
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
@@ -108,7 +108,7 @@ fun_facts:
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -123,48 +123,52 @@ fun_facts:
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" width="100%">
 
+<!-- Beyond Code -->
 <div align="center">
 
-### 🎛️ Beyond Code
+<br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
+### 🎭 &nbsp; Beyond Code &nbsp; 🎭
 
-**🔦 Live Lighting**<br/><br/>
-Designing and operating lighting rigs<br/>
-for live events and concerts.<br/>
-From intimate club shows to<br/>
-larger festival stages — bringing<br/>
-performances to life with light.
+<br/>
 
-</td>
-<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🔦_Live_Event_Lighting-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📸_Concert_Photography-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117" />
 
-**📸 Concert Photography**<br/><br/>
-Capturing the raw energy and<br/>
-emotion of live music.<br/>
-Check out my work at<br/>
-<a href="https://konzertfotografie-falko-himmel.netlify.app/">
-  <img src="https://img.shields.io/badge/📷_My_Portfolio-6E40C9?style=flat-square" alt="Portfolio"/>
-</a>
+<br/><br/>
 
-</td>
-</tr>
-</table>
+*When I'm not writing code, you'll find me behind a lighting console or a camera at a live show.*
+
+<br/>
+
+🎛️ &nbsp;**Live Event Lighting** — Designing and programming lighting rigs for bands and events,
+from intimate club nights to festival stages. Bringing performances to life through light.
+
+<br/>
+
+📸 &nbsp;**Concert Photography** — Capturing the raw energy and emotion of live music.
+Every show tells a different story through the lens.
+
+<br/>
+
+[![View Concert Portfolio](https://img.shields.io/badge/📷_View_Concert_Portfolio-6E40C9?style=for-the-badge)](https://konzertfotografie-falko-himmel.netlify.app/)
+
+<br/>
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="assets/divider.svg" width="100%">
 
 <!-- Profile Views Counter -->
 <div align="center">
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Falko-Himmel&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/><br/>
 </div>
-
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer" />
