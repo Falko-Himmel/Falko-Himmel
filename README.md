@@ -35,15 +35,15 @@ education:
   program: Software Engineering
 
 roles:
-  - 💻 Software Engineering Student
-  - 🎛️ Live Event Lighting Technician
-  - 📸 Concert Photographer
+  -  Software Engineering Student
+  -  Live Event Lighting Technician
+  -  Concert Photographer
 
 currently:
   studying: Software Engineering @ Uni Ulm
 
 fun_facts:
-  - I design light shows for live events in my free time 🎆
+  - I design light shows for live events in my free time
   - I shoot concert photography in my free time 🎸
   - I love building clean, functional Apps
 ```
@@ -73,7 +73,7 @@ fun_facts:
 <br/><br/>
 
 #### Tools & Other
-<img src="https://skillicons.dev/icons?i=git,github,vscode,latex,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" alt="Tools" />
 
 </div>
 
@@ -121,44 +121,6 @@ fun_facts:
 </div>
 
 <br/>
-
-<!-- Animated Divider -->
-<img src="assets/divider.svg" width="100%">
-
-<!-- Beyond Code -->
-<div align="center">
-
-<br/>
-
-### 🎭 &nbsp; Beyond Code &nbsp; 🎭
-
-<br/>
-
-<img src="https://img.shields.io/badge/🔦_Live_Event_Lighting-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📸_Concert_Photography-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117" />
-
-<br/><br/>
-
-*When I'm not writing code, you'll find me behind a lighting console or a camera at a live show.*
-
-<br/>
-
-🎛️ &nbsp;**Live Event Lighting** — Designing and programming lighting rigs for bands and events,
-from intimate club nights to festival stages. Bringing performances to life through light.
-
-<br/>
-
-📸 &nbsp;**Concert Photography** — Capturing the raw energy and emotion of live music.
-Every show tells a different story through the lens.
-
-<br/>
-
-[![View Concert Portfolio](https://img.shields.io/badge/📷_View_Concert_Portfolio-6E40C9?style=for-the-badge)](https://konzertfotografie-falko-himmel.netlify.app/)
-
-<br/>
-
-</div>
 
 <!-- Animated Divider -->
 <img src="assets/divider.svg" width="100%">
