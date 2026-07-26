@@ -19,7 +19,7 @@
 </div>
 
 <!-- Animated Divider -->
-<img src="assets/divider.svg" width="100%">
+<img src="assets/divider.svg" width="100%" height="8px">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -53,7 +53,8 @@ fun_facts:
 </div>
 
 <!-- Animated Divider -->
-<img src="assets/divider.svg" width="100%">
+<img src="assets/divider.svg" width="100%" height="8px">
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
@@ -62,17 +63,17 @@ fun_facts:
 #### Languages
 <img src="https://skillicons.dev/icons?i=ts,js,java,haskell&theme=dark" alt="Languages" />
 
-<br/><br/>
+
 
 #### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
 
-<br/><br/>
+
 
 #### Backend & DevOps
 <img src="https://skillicons.dev/icons?i=firebase,docker,nodejs&theme=dark" alt="Backend & DevOps" />
 
-<br/><br/>
+
 
 #### Tools & Other
 <img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" alt="Tools" />
@@ -82,7 +83,8 @@ fun_facts:
 <br/>
 
 <!-- Animated Divider -->
-<img src="assets/divider.svg" width="100%">
+<img src="assets/divider.svg" width="100%" height="8px">
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
@@ -110,7 +112,8 @@ fun_facts:
 <br/>
 
 <!-- Animated Divider -->
-<img src="assets/divider.svg" width="100%">
+<img src="assets/divider.svg" width="100%" height="8px">
+
 
 ## 🐍 Contribution Snake
 
@@ -125,7 +128,8 @@ fun_facts:
 <br/>
 
 <!-- Animated Divider -->
-<img src="assets/divider.svg" width="100%">
+<img src="assets/divider.svg" width="100%" height="8px">
+
 
 <!-- Profile Views Counter -->
 <div align="center">
