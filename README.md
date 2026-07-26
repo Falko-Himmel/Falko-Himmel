@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://konzertfotografie-falko-himmel.netlify.app/">
-  <img src="https://img.shields.io/badge/📸_Portfolio-6E40C9?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
 <a href="mailto:hi.falko@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -48,7 +44,13 @@ fun_facts:
   - I love building clean, functional Apps
 ```
 
-<br/>
+<div align="center">
+  <br/>
+  <a href="https://konzertfotografie-falko-himmel.netlify.app/">
+    <img src="https://img.shields.io/badge/📷_Concert_Photography_Portfolio-6E40C9?style=for-the-badge&logoColor=white" alt="Concert Photography Portfolio"/>
+  </a>
+  <br/>
+</div>
 
 <!-- Animated Divider -->
 <img src="assets/divider.svg" width="100%">
