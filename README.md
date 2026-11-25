@@ -1,6 +1,6 @@
 # ![Falko Himmel](assets/profile-header.svg)
 
-I study software engineering at Universität Ulm. Outside uni, I design lighting for live shows and photograph concerts.
+I study software engineering at Ulm University. Outside uni, I design lighting for live shows and photograph concerts.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-344559?style=for-the-badge)](https://www.linkedin.com/in/falko-leon-himmel-67b9aa369/)
 &nbsp;
