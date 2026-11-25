@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="144" viewBox="0 0 800 144">
+  <rect x="1" y="1" width="798" height="142" rx="12" fill="#161b22" stroke="#39434f" stroke-width="2"/>
+  <path d="M34 59l13 13-13 13m24 4h21" fill="none" stroke="#a0b8d2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="100" y="91" fill="#e6edf3" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="60" font-weight="700">Falko Himmel</text>
+</svg>
